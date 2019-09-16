@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Solicitações" max_length="40" name="x_snc_presidente_solicitacoes" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Escolha" mandatory="true" max_length="40" name="u_escolha" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Reclamação" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Elogio" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Duvida" sequence="2" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

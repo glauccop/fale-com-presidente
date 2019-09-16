@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">ad528494db3333007f961681399619e9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>adriano.portes</sys_created_by>
+        <sys_created_on>2019-09-16 13:12:49</sys_created_on>
+        <sys_id>5a2593e3dbbb7f407f9616813996191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_updated_by>adriano.portes</sys_updated_by>
+        <sys_updated_on>2019-09-16 13:12:49</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
