@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Thumbs-Up">2b79abe7db3333007f96168139961916</icon>
+        <name>Banco do Brasil</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:41:39</sys_created_on>
+        <sys_id>a379632bdb3333007f96168139961941</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Banco do Brasil</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sys_sg_list_screen_a379632bdb3333007f96168139961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:43:23</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a379632bdb3333007f96168139961941"/>
+</record_update>

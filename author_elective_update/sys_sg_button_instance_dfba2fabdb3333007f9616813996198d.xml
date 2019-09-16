@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">17ba2fabdb3333007f96168139961989</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">dbba2fabdb3333007f96168139961986</icon>
+        <label>Banco do Brasil Launcher Button Instance</label>
+        <location>top</location>
+        <name>Banco do Brasil Launcher Button Instance</name>
+        <order/>
+        <parent>5bba2babdb3333007f961681399619dd</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:05</sys_created_on>
+        <sys_id>dfba2fabdb3333007f9616813996198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Banco do Brasil Launcher Button Instance</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sys_sg_button_instance_dfba2fabdb3333007f9616813996198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:05</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=dfba2fabdb3333007f9616813996198d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</application>
+        <file_path/>
+        <instance_id>691a065fdb6dbbc40ae3ac44d49619ed</instance_id>
+        <instance_name>bancodobrasilpoc</instance_name>
+        <name>sys_sg_button_instance_dfba2fabdb3333007f9616813996198d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">17ba2fabdb3333007f96168139961989</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">dbba2fabdb3333007f96168139961986</icon><label>Banco do Brasil Launcher Button Instance</label><location>top</location><name>Banco do Brasil Launcher Button Instance</name><order/><parent>5bba2babdb3333007f961681399619dd</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-16 14:47:05</sys_created_on><sys_id>dfba2fabdb3333007f9616813996198d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Banco do Brasil Launcher Button Instance</sys_name><sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package><sys_policy/><sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope><sys_update_name>sys_sg_button_instance_dfba2fabdb3333007f9616813996198d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 14:47:05</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=dfba2fabdb3333007f9616813996198d"/></record_update>]]></payload>
+        <payload_hash>-2070019194</payload_hash>
+        <record_name>Banco do Brasil Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>a2b417a3dbbb7f407f96168139961996</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:05</sys_created_on>
+        <sys_id>17ba2fabdb3333007f96168139961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d3a8a9e030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:05</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>1fba2fab33333300bf63251f79fcda90</update_guid>
+        <update_guid_history>1fba2fab33333300bf63251f79fcda90:-2070019194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0ac29061841c4086838628b9bad09784</sys_id>
+        <sys_metadata>dfba2fabdb3333007f9616813996198d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Banco do Brasil Launcher Button Instance</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_scope_delete display_value="">151e506e094a475085f93bd4b4531390</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_dfba2fabdb3333007f9616813996198d</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_dfba2fabdb3333007f9616813996198d">17ba2fabdb3333007f96168139961991</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

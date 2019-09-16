@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order>-1</condition_order>
+        <datasource_table>x_snc_presidente_solicitacoes</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Banco do Brasil">b779632bdb3333007f9616813996194a</embedded_screen>
+        <item_view display_value="Banco do Brasil Item View">2b79632bdb3333007f9616813996193e</item_view>
+        <name>Banco do Brasil Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:41:40</sys_created_on>
+        <sys_id>3f79632bdb3333007f96168139961955</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Banco do Brasil Master Item</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sys_sg_master_item_3f79632bdb3333007f96168139961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:43:05</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

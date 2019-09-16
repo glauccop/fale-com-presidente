@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-09-16 14:44:17</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>adriano.portes</sys_created_by>
+        <sys_created_on>2019-09-16 14:44:17</sys_created_on>
+        <sys_id>161ae76bdb3333007f961681399619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>erNxvARdl3M:APA91bFZDKvlNV4b-NURgQbtSe1WyEIGTUwk4p9gzIiUzSAHWNvwbp5_USXjs720T6gX2Kj20Uz78ieIuy00qIFYJZBxwH9XqNrJyAy2m49nGrsviDCTIsuZECgTXmxA-A4M7oZF-zkd</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_161ae76bdb3333007f961681399619ee</sys_update_name>
+        <sys_updated_by>adriano.portes</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:44:17</sys_updated_on>
+        <sys_user_id display_value="Adriano Portes">31b153ebdb7b7f407f961681399619ed</sys_user_id>
+        <token>erNxvARdl3M:APA91bFZDKvlNV4b-NURgQbtSe1WyEIGTUwk4p9gzIiUzSAHWNvwbp5_USXjs720T6gX2Kj20Uz78ieIuy00qIFYJZBxwH9XqNrJyAy2m49nGrsviDCTIsuZECgTXmxA-A4M7oZF-zkd</token>
+    </sys_push_notif_app_install>
+</record_update>

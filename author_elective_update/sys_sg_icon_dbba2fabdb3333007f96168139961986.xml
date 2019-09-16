@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f15c","Name":"icon-File","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"font"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:05</sys_created_on>
+        <sys_id>dbba2fabdb3333007f96168139961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sys_sg_icon_dbba2fabdb3333007f96168139961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:05</sys_updated_on>
+        <type>user</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</application>
+        <file_path/>
+        <instance_id>691a065fdb6dbbc40ae3ac44d49619ed</instance_id>
+        <instance_name>bancodobrasilpoc</instance_name>
+        <name>sys_sg_icon_dbba2fabdb3333007f96168139961986</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f15c","Name":"icon-File","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"font"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-16 14:47:05</sys_created_on><sys_id>dbba2fabdb3333007f96168139961986</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package><sys_policy/><sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope><sys_update_name>sys_sg_icon_dbba2fabdb3333007f96168139961986</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-16 14:47:05</sys_updated_on><type>user</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>1839976594</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>a2b417a3dbbb7f407f96168139961996</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:05</sys_created_on>
+        <sys_id>dfba2fabdb3333007f96168139961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d3a8a9d240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:05</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>d7ba2fab203333003646c8c7e9298788</update_guid>
+        <update_guid_history>d7ba2fab203333003646c8c7e9298788:1839976594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>cabd519f33e943e3b81b78c2dcfbee29</sys_id>
+        <sys_metadata>dbba2fabdb3333007f96168139961986</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_scope_delete display_value="">151e506e094a475085f93bd4b4531390</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_dbba2fabdb3333007f96168139961986</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_dbba2fabdb3333007f96168139961986">dfba2fabdb3333007f96168139961988</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

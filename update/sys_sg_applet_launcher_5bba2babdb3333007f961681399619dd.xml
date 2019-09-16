@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="Banco do Brasil Launcher Button Instance">0fcaafabdb3333007f96168139961931</header_button>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Banco do Brasil</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 14:47:05</sys_created_on>
+        <sys_id>5bba2babdb3333007f961681399619dd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Banco do Brasil</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_5bba2babdb3333007f961681399619dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 14:47:20</sys_updated_on>
+        <title>Banco do Brasil</title>
+    </sys_sg_applet_launcher>
+</record_update>
