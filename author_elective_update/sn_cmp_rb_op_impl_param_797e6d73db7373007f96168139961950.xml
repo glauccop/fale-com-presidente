@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_param">
+    <sn_cmp_rb_op_impl_param action="DELETE">
+        <applicable_to/>
+        <datasource>1</datasource>
+        <datasourcevalue/>
+        <defaultvalue>${parameter.Location}</defaultvalue>
+        <error_text/>
+        <help_text/>
+        <host/>
+        <ismandatory>false</ismandatory>
+        <name>Location</name>
+        <op_param/>
+        <operation display_value="Deprovision">a17e6d73db7373007f9616813996192d</operation>
+        <order>20</order>
+        <read_only>false</read_only>
+        <regex/>
+        <step/>
+        <sys_class_name>sn_cmp_rb_op_impl_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:22:36</sys_created_on>
+        <sys_id>797e6d73db7373007f96168139961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_param_797e6d73db7373007f96168139961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:22:36</sys_updated_on>
+        <ui_data_type/>
+        <value/>
+        <visibilty>false</visibilty>
+    </sn_cmp_rb_op_impl_param>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</application>
+        <file_path/>
+        <instance_id>691a065fdb6dbbc40ae3ac44d49619ed</instance_id>
+        <instance_name>bancodobrasilpoc</instance_name>
+        <name>sn_cmp_rb_op_impl_param_797e6d73db7373007f96168139961950</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_param"><sn_cmp_rb_op_impl_param action="INSERT_OR_UPDATE"><applicable_to/><datasource>1</datasource><datasourcevalue/><defaultvalue>${parameter.Location}</defaultvalue><error_text/><help_text/><host/><ismandatory>false</ismandatory><name>Location</name><op_param/><operation display_value="Deprovision">a17e6d73db7373007f9616813996192d</operation><order>20</order><read_only>false</read_only><regex/><step/><sys_class_name>sn_cmp_rb_op_impl_param</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-17 00:22:36</sys_created_on><sys_id>797e6d73db7373007f96168139961950</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Location</sys_name><sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package><sys_policy/><sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope><sys_update_name>sn_cmp_rb_op_impl_param_797e6d73db7373007f96168139961950</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-17 00:22:36</sys_updated_on><ui_data_type/><value/><visibilty>false</visibilty></sn_cmp_rb_op_impl_param></record_update>]]></payload>
+        <payload_hash>173286596</payload_hash>
+        <record_name>Location</record_name>
+        <reverted_from/>
+        <source>a2b417a3dbbb7f407f96168139961996</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:22:36</sys_created_on>
+        <sys_id>7d7e6d73db7373007f96168139961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d3c9982dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:22:36</sys_updated_on>
+        <type>Operation Parameter</type>
+        <update_guid>757e6d7366737300911128a340bcde52</update_guid>
+        <update_guid_history>757e6d7366737300911128a340bcde52:173286596</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Location">8e7e6d73db7373007f961681399619b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:22:38</sys_created_on>
+        <sys_db_object display_value="" name="sn_cmp_rb_op_impl_param">sn_cmp_rb_op_impl_param</sys_db_object>
+        <sys_id>04e84d483f9e4696803255118d2a4759</sys_id>
+        <sys_metadata>797e6d73db7373007f96168139961950</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_scope_delete display_value="">151e506e094a475085f93bd4b4531390</sys_scope_delete>
+        <sys_update_name>sn_cmp_rb_op_impl_param_797e6d73db7373007f96168139961950</sys_update_name>
+        <sys_update_version display_value="sn_cmp_rb_op_impl_param_797e6d73db7373007f96168139961950">7d7e6d73db7373007f96168139961952</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:22:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

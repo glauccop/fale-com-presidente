@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_model">
+    <sn_cmp_bp_stage_model action="INSERT_OR_UPDATE">
+        <blueprint display_value="Ubuntu Azure">448eed73db7373007f961681399619fd</blueprint>
+        <blueprint_template/>
+        <intent>ServiceNowCloudTemplate:
+  name: Ubuntu Azure
+  layer: Application
+  status: Draft
+  category: Compute
+  deploymentModel:
+    resources:
+    - resource: Ubuntu Azure
+      resourceblock: ServiceNow::Ubuntu Azure
+      host: Azure Datacenter
+    - resource: Azure Datacenter
+      resourceblock: ServiceNow::Azure Datacenter</intent>
+        <stage display_value="Default">a74383b20b2222003ad5c73ef6673a1d</stage>
+        <sys_class_name>sn_cmp_bp_stage_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:22:55</sys_created_on>
+        <sys_id>e68ea1b3db7373007f961681399619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_model_e68ea1b3db7373007f961681399619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:22:56</sys_updated_on>
+    </sn_cmp_bp_stage_model>
+</record_update>

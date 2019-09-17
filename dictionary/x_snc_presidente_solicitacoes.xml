@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Solicitações" max_length="40" name="x_snc_presidente_solicitacoes" type="collection">
+    <element extends="task" label="Solicitações" max_length="40" name="x_snc_presidente_solicitacoes" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Bairro" max_length="40" name="u_bairro" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CEP" max_length="9" name="u_cep" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cidade" max_length="40" name="u_cidade" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Complemento" max_length="40" name="u_complemento" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Endereço" max_length="40" name="u_endereco" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Escolha" mandatory="true" max_length="40" name="u_escolha" type="string">
             <choice>
                 <element inactive_on_update="false" label="Reclamação" sequence="0" value="1"/>
@@ -7,5 +12,6 @@
                 <element inactive_on_update="false" label="Duvida" sequence="2" value="3"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="UF" max_length="40" name="u_uf" type="string"/>
     </element>
 </database>

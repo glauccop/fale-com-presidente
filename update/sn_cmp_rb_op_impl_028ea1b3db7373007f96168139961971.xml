@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="Ubuntu Azure Resource Interface">dc8e21b3db7373007f96168139961932</interface>
+        <operation display_value="ModifyLease">c28ea1b3db7373007f9616813996196d</operation>
+        <operation_output_attributes/>
+        <resource display_value="Ubuntu Azure Blueprint Resource">108e21b3db7373007f96168139961935</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:22:54</sys_created_on>
+        <sys_id>028ea1b3db7373007f96168139961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c28ea1b3db7373007f9616813996196d</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_028ea1b3db7373007f96168139961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:22:54</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule">
+    <sn_cmp_bp_rule action="INSERT_OR_UPDATE">
+        <cat_item display_value="Ubuntu Azure">169d69ffdb3373007f961681399619b4</cat_item>
+        <cat_variable display_value="CreateResourceGroup">c79e69b3db7373007f961681399619bf</cat_variable>
+        <description>Hide ResourceGroup</description>
+        <name>Hide ResourceGroup</name>
+        <order>130</order>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:23:17</sys_created_on>
+        <sys_id>2b9ea9b3db7373007f96168139961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide ResourceGroup</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_2b9ea9b3db7373007f96168139961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:23:17</sys_updated_on>
+    </sn_cmp_bp_rule>
+</record_update>

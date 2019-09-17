@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Start">0dae2db3db7373007f9616813996195d</catalog_item>
+        <catalog_variable>IO:81ae2db3db7373007f96168139961961</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:23:23</sys_created_on>
+        <sys_id>55ae2db3db7373007f96168139961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cloudTaskWorkflowInput</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_55ae2db3db7373007f96168139961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:23:23</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Start UI policy">95ae2db3db7373007f96168139961969</ui_policy>
+        <variable>cloudTaskWorkflowInput</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

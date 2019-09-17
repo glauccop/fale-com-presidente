@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_condition">
+    <sn_cmp_bp_condition action="INSERT_OR_UPDATE">
+        <condition_group_end/>
+        <condition_group_start/>
+        <condition_status>1</condition_status>
+        <condition_type>1</condition_type>
+        <operand>CreateResourceGroup</operand>
+        <operand_attr display_value="CreateResourceGroup">c79e69b3db7373007f961681399619bf</operand_attr>
+        <operator>1</operator>
+        <order>110</order>
+        <rule display_value="Reload ResourceGroup">ab9ea9b3db7373007f96168139961989</rule>
+        <sys_class_name>sn_cmp_bp_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:23:17</sys_created_on>
+        <sys_id>2f9ea9b3db7373007f9616813996198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_bp_condition_2f9ea9b3db7373007f9616813996198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:23:17</sys_updated_on>
+        <value>No</value>
+    </sn_cmp_bp_condition>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_action">
+    <sn_cmp_bp_action action="INSERT_OR_UPDATE">
+        <action_type>7</action_type>
+        <datasource/>
+        <name>SetValue ResourceGroupName</name>
+        <order>10</order>
+        <rule display_value="SetValue ResourceGroupName">ff9ea9b3db7373007f961681399619c1</rule>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:23:18</sys_created_on>
+        <sys_id>739ea9b3db7373007f961681399619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SetValue ResourceGroupName</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_bp_action_739ea9b3db7373007f961681399619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:23:18</sys_updated_on>
+        <target_attr display_value="ResourceGroupName">5e9e69b3db7373007f9616813996191c</target_attr>
+        <target_attribute>ResourceGroupName</target_attribute>
+        <target_attribute_select/>
+        <value/>
+    </sn_cmp_bp_action>
+</record_update>

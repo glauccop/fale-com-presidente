@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="Ubuntu Azure Interface">517e2573db7373007f961681399619fc</interface>
+        <operation display_value="PreProvision">937eed73db7373007f96168139961958</operation>
+        <operation_output_attributes/>
+        <resource display_value="Ubuntu Azure">d57e2573db7373007f961681399619fe</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-17 00:22:43</sys_created_on>
+        <sys_id>db7eed73db7373007f96168139961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>937eed73db7373007f96168139961958</sys_name>
+        <sys_package display_value="Fale com o Presidente" source="x_snc_presidente">26b417a3dbbb7f407f96168139961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fale com o Presidente">26b417a3dbbb7f407f96168139961994</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_db7eed73db7373007f96168139961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 00:22:43</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>
